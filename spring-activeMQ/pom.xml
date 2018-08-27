@@ -8,7 +8,7 @@
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>demo_websphere_mq</name>
+    <name>demo_activeMq</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
